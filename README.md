@@ -9,7 +9,7 @@ the elevator at various floor whereas the elevator is consumer and people's queu
 ##  Dascription :
 ###     Classes :
  -  **Button.java**
-     -_indicatorON_  : Checks which button is on elevator or floor
+     - _indicatorON_  : Checks which button is on elevator or floor
      -_isMovingDown_ : Checks whether the elevator is moving down 
      -_isMovingUP_   : Checks whether the elevator is moving up 
      -_param_        : Object of the button param class
