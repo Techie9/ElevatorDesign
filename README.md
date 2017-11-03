@@ -52,5 +52,6 @@ the elevator at various floor whereas the elevator is consumer and people's queu
     - This is the main class which creates and manages both the threads 
     - _people_      :Object of the People class
     - _elevator_    :Object of the Elevator class
- ##Run:
+ 
+ ## Run:
     -ElevatorController is the main class .After downlaoding , you just need to run ElevatorController.
