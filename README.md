@@ -6,15 +6,15 @@ producer produces the data and consumer consumes the object .Therefore , we need
 the common object used by both the thread.Here people is the producer producing the queue of people wanting to enter 
 the elevator at various floor whereas the elevator is consumer and people's queue is the common object.
 
-**DEscription :
-  **Classes
-    *Bututon.java
-    *Elevator Button.java
-    *FloorButton.java
-    *ButtonParam
-    *Elevator 
-    *MachineRoomElevator 
-    *Peole
-    *ElevatorPeople
-    *ElevatorList
-    *ElevatorController
+##  Dascription :
+###     Classes :
+    **Bututon.java**
+    **Elevator Button.java**
+    **FloorButton.java**
+    **ButtonParam**
+    **Elevator** 
+    **MachineRoomElevator** 
+    **Peole**
+    **ElevatorPeople**
+    **ElevatorList**
+    **ElevatorController**
