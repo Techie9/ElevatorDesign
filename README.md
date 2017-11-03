@@ -9,9 +9,6 @@ the elevator at various floor whereas the elevator is consumer and people's queu
 **DEscription :
   **Classes
     *Bututon.java
-      *boolean IndicatorON=false;
-      *boolean isMovingDown=false,isMovingUP=true;
-      *ButtonParam param;
     *Elevator Button.java
     *FloorButton.java
     *ButtonParam
