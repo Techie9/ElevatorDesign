@@ -54,4 +54,4 @@ the elevator at various floor whereas the elevator is consumer and people's queu
     - _elevator_    :Object of the Elevator class
  
  ## Run:
-    - As ElevatorController is the main class ,after downlaoding you just need to run ElevatorController.
+ -   As ElevatorController is the main class ,after downlaoding you just need to run ElevatorController.
