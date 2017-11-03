@@ -8,13 +8,13 @@ the elevator at various floor whereas the elevator is consumer and people's queu
 
 ##  Dascription :
 ###     Classes :
-    **Bututon.java**
-    **Elevator Button.java**
-    **FloorButton.java**
-    **ButtonParam**
-    **Elevator** 
-    **MachineRoomElevator** 
-    **Peole**
-    **ElevatorPeople**
-    **ElevatorList**
-    **ElevatorController**
+ -   **Bututon.java**
+ -   **Elevator Button.java**
+ -   **FloorButton.java**
+ -   **ButtonParam**
+ -   **Elevator** 
+ -  **MachineRoomElevator** 
+  -  **Peole**
+  - **ElevatorPeople**
+  -  **ElevatorList**
+  -  **ElevatorController**
